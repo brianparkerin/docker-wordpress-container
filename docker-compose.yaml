@@ -32,3 +32,13 @@ services:
           WORDPRESS_DB_PASSWORD: wordpress
           WORDPRESS_DB_NAME: wordpress
           WORDPRESS_TABLE_PREFIX: "wp1_01"
+
+deployment: 
+    tasks:
+        - export DEPLOYPATH=/home/user/public_html/
+        - /bin/cp index.html $DEPLOYPATH
+        - /bin/cp style.css $DEPLOYPATH
+
+
+# $ git remote add cpanel https://cpanel.net/user/cprepo.git
+# $ git push cpanel
