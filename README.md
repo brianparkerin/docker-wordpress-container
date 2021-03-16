@@ -64,4 +64,7 @@ WP CLI Administra WordPress desde Visual Studio Code
 https://www.youtube.com/watch?v=Jj2YE7Ed3JQ
 
 
+Cómo pasar WordPress de desarrollo en local con Docker al Hosting
+https://www.youtube.com/watch?v=oAFxy0guD9I
+
 
