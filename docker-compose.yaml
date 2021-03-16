@@ -40,6 +40,10 @@ deployment:
         - /bin/cp style.css $DEPLOYPATH
 
 
+
+# en la terminal y la raiz de nuestro projecto: ls 1h
+# Correr contenedor: docker-compose up
+
 # git commands to doploy Wp-Website on CPanel:
 # $ git remote add cpanel https://cpanel.net/user/cprepo.git
 # $ git push cpanel
