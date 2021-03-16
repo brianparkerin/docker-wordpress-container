@@ -60,4 +60,8 @@ ________________________________________________________________________________
 https://docs.docker.com/compose/install/
 
 
+WP CLI Administra WordPress desde Visual Studio Code
+https://www.youtube.com/watch?v=Jj2YE7Ed3JQ
+
+
 
